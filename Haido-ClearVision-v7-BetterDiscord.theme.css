@@ -25,7 +25,7 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://cdn.discordapp.com/attachments/751256847297544387/1485431651977920512/r1778rs.png?ex=6a3d1bc7&is=6a3bca47&hm=983764fee5be44f8cb3ea865be7441d50e6c05d2cb76d4b70b8e2dc982e28ac6&animated=true); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/751256847297544387/1485431651977920512/r1778rs.png?ex=6a4b9c47&is=6a4a4ac7&hm=0e46ce0e9ad20e4c1e0682aebee67c0380c4b40f4886d99c4d4fd1f77ef81dbc&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
